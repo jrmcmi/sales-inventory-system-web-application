@@ -1,3 +1,6 @@
+# Website Link Running On AwardSpace
+- http://stocksense.scienceontheweb.net/
+
 # StockSense — Sales Inventory System
 
 A full-stack web-based Sales Inventory System built with **React (Vite)** for the frontend and **PHP + MySQL** for the backend. The system digitally organizes and manages sales operations and inventory control through a centralized, normalized database solving the data redundancy, inconsistency, and scalability issues found in traditional denormalized spreadsheet-based systems.
