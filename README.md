@@ -103,6 +103,8 @@ dist/
 
 ## How to Run Locally (Arch Linux + Apache + MariaDB)
 
+- I used Arch Linux KDE 6 myself to develop this web application so I have not placed a guide on how to run this on windows machines locally.
+
 ### Prerequisites
 - Node.js v18+
 - Apache (`httpd`)
