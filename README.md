@@ -153,7 +153,7 @@ sudo systemctl restart httpd
 sudo cp -r /path/to/project /srv/http/sales_inventory
 
 # Fix permissions
-sudo chown -R mai:mai /srv/http/sales_inventory
+sudo chown -R userName:userName /srv/http/sales_inventory
 ```
 
 ### Step 5 — Configure the database connection
