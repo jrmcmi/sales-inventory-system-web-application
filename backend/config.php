@@ -3,10 +3,10 @@
 // Replace these values with your AwardSpace MySQL credentials
 // Found in: AwardSpace Control Panel → MySQL Databases
 
-define('DB_HOST', 'fdb1033.awardspace.net');         // Usually 'localhost' on AwardSpace
-define('DB_NAME', '4748030_stocksense');      // e.g. 12345678_inventory
-define('DB_USER', '4748030_stocksense');      // e.g. 12345678_invuser
-define('DB_PASS', 'jearim123');  // Your database password
+define('DB_HOST', 'your_host_here');         // Usually 'localhost' on AwardSpace
+define('DB_NAME', 'secret');      // e.g. 12345678_inventory
+define('DB_USER', 'secret');      // e.g. 12345678_invuser
+define('DB_PASS', 'jearimheheTHISWRONGPASS');  // Your database password
 define('DB_CHARSET', 'utf8mb4');
 
 // ── CORS — Allow your frontend domain ────────────────────
